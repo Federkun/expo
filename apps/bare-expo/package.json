@@ -44,7 +44,6 @@
     "expo-video-thumbnails",
     "expo-module-template",
     "expo-apple-authentication",
-    "expo-updates",
     "expo-splash-screen"
   ],
   "detox": {
